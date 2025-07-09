@@ -1,4 +1,4 @@
-welcome to my project
+welcome to the "Git for Beginners" my project
 
 Author: KORI DAVID
 
