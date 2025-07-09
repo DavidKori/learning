@@ -8,3 +8,4 @@ am just adding the middle name
 
 adding a last name
 everything is going on well 
+learn about git fetch and git merge
