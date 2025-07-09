@@ -4,5 +4,6 @@ Author: KORI DAVID
 
 i just wanted to make some changes
 
-adding a last name
+am just adding the middle name
 
+adding a last name
